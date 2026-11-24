@@ -24,7 +24,7 @@ Most of my projects live in private repositories. This profile is a small window
 
 ### Space radar
 
-<sub>Automatically collected headlines from NASA and ESA. Updates are automated, not personal development sessions.</sub>
+<sub>Automatically collected headlines from NASA and ESA, refreshed a few times a week.</sub>
 
 <!-- SPACE-FEED:START -->
 - [NASA Awards Contract for NOAA’s Near Earth Orbit Network Program](<https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/>) — NASA · 2026-11-23
