@@ -22,6 +22,19 @@ Most of my projects live in private repositories. This profile is a small window
 | **Networking** | Understanding how systems connect and communicate. |
 | **Space & rocketry** | Launch vehicles, space exploration, and what lies beyond Earth. |
 
+### Space radar
+
+<sub>Automatically collected headlines from NASA and ESA. Updates are automated, not personal development sessions.</sub>
+
+<!-- SPACE-FEED:START -->
+- [NASA Awards Contract for NOAA’s Near Earth Orbit Network Program](<https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/>) — NASA · 2026-11-23
+- [Studying Cancer Cells in Microgravity](<https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/>) — NASA · 2026-11-23
+- [NASA Seeks Partners to Design First Nuclear Reactor for the Moon](<https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/>) — NASA · 2026-11-23
+- [Rain breaks up Earth’s natural sunshades](<https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/earthcare/rain-breaks-up-earth-s-natural-sunshades>) — ESA · 2026-11-19
+- [Watch live: Hera’s first images of post-impact asteroid Dimorphos](<https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/watch-live-hera-s-first-images-of-post-impact-asteroid-dimorphos>) — ESA · 2026-11-19
+- [Seven-spacecraft observatory to study plasma universe](<https://www.esa.int/articles/about-us/directorates/science/seven-spacecraft-observatory-to-study-plasma-universe>) — ESA · 2026-11-19
+<!-- SPACE-FEED:END -->
+
 ### GitHub activity
 
 <p align="center">
@@ -47,3 +60,4 @@ Most of my projects live in private repositories. This profile is a small window
 <p align="center">
   <sub>From a home server to low Earth orbit — there's always more to explore.</sub>
 </p>
+

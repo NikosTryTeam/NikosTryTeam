@@ -1,0 +1,56 @@
+name: Update space radar
+
+on:
+  schedule:
+    - cron: '37 9 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update-space-feed.ps1'
+      - '.github/workflows/space-feed.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: space-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+      - name: Refresh headlines on selected days
+        shell: pwsh
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if ($env:EVENT_NAME -eq 'schedule') {
+            ./scripts/update-space-feed.ps1 -Scheduled
+          } else {
+            ./scripts/update-space-feed.ps1
+          }
+      - name: Commit actual changes, clearly attributed as automation
+        shell: bash
+        env:
+          GIT_AUTHOR_NAME: Nikos
+          GIT_AUTHOR_EMAIL: 139800928+NikosTryTeam@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          set -euo pipefail
+          git add README.md
+          if git diff --cached --quiet; then
+            echo 'No new headlines; no commit.'
+            exit 0
+          fi
+          git commit -m 'chore(feed): automatically refresh NASA and ESA headlines' -m 'Automated RSS update by GitHub Actions; not a manual development session.'
+          git pull --rebase origin main
+          git push origin HEAD:main
