@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/orbit-header.svg" alt="Hey, I'm Nikos. Homelab on Earth. Curiosity beyond it. Building things. Learning by doing." width="100%" />
+  <img src="./assets/orbit-header.svg" alt="Hey, I'm Nikos. Building things. Learning by doing." width="100%" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ### A little about me
 
-I enjoy tinkering with my homelab, building personal projects, and figuring out how things work. My interests range from self-hosted services and networking to automation and AI — with a soft spot for space and rocketry.
+I enjoy tinkering with my homelab, building personal projects, and figuring out how things work. My interests range from self-hosted services and networking to automation, AI, space and rocketry.
 
 Most of my projects live in private repositories. This profile is a small window into what keeps me curious.
 
