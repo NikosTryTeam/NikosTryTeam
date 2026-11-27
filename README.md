@@ -27,12 +27,12 @@ Most of my projects live in private repositories. This profile is a small window
 <sub>Automatically collected headlines from NASA and ESA, refreshed a few times a week.</sub>
 
 <!-- SPACE-FEED:START -->
-- [APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis](<https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/>) — NASA · 2026-11-26
-- [Seeking Refuge on Resolution Island](<https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/>) — NASA · 2026-11-26
-- [NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement](<https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/>) — NASA · 2026-11-25
+- [Artemis III Astronaut Andre Douglas Visits VAB](<https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/>) — NASA · 2026-11-27
+- [NASA’s NG-25 Mission to Launch Pioneering Space Crops Research](<https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/>) — NASA · 2026-11-27
+- [APOD: 2026 November 27 – The Moon Watchers](<https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/>) — NASA · 2026-11-27
+- [Ozone hole one of the largest in decades](<https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-5p/ozone-hole-one-of-the-largest-in-decades>) — ESA · 2026-11-26
+- [Watch live: Gaia releases its largest-ever goldmine of cosmic data](<https://www.esa.int/articles/about-us/directorates/science/gaia/watch-live-gaia-releases-its-largest-ever-goldmine-of-cosmic-data>) — ESA · 2026-11-26
 - [Hera reveals stadium-sized asteroid crater from spacecraft impact](<https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact>) — ESA · 2026-11-25
-- [Euclid breaks own quasar record by 40 million years](<https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-breaks-own-quasar-record-by-40-million-years>) — ESA · 2026-11-24
-- [BepiColombo safely in Mercury orbit despite unexpected challenge](<https://www.esa.int/articles/about-us/directorates/operations/bepicolombo-safely-in-mercury-orbit-despite-unexpected-challenge>) — ESA · 2026-11-23
 <!-- SPACE-FEED:END -->
 
 ### GitHub activity
